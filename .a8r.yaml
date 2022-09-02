@@ -1,0 +1,5 @@
+k8s_config:
+- manifest_path: /manifest
+  cluster_info:
+    cluster_id: 94ea9aa1-7567-5e30-85ca-41f0c26e76ba
+    cluster_name: Renée K. Würges's cluster
