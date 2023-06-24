@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=wuergesFC-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 👋 Hi, I’m @wuergesFC
 - 👀 I’m interested in Bitcoin
 - 🌱 I’m currently learning bitcoind and lnd developing
